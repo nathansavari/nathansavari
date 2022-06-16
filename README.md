@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nthsvr (or Nathan !)
+- 👋 Hi, I’m @nthnsvr (or Nathan !)
 - 👀 I’m interested in building projects.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on : changing the world.
-- 📫 Twitter : @nthsvr
 
 <!---
 nthsvr/nthsvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

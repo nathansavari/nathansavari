@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nthnsvr (or Nathan !)
-- 👀 I’m interested in building projects.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on : changing the world.
+- 👋 Hi, I’m @nathansavari (or Nathan !)
+- 👀 I’m interested in building useful projects.
+- 🌱 I’m currently learning web development, product management
+- 🌍 Looking to change the world.
 
 <!---
-nthsvr/nthsvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nthsvr/nathansavari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

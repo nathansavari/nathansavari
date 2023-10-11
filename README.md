@@ -5,5 +5,5 @@
 <p>Recently, I've worked with Burger King as a Data Product Owner in order to reduce their packaging waste in France. The aim? To avoid 1.9 tonnes of waste per restaurant per year.</p>
 <p>By organising the redesign and optimising the SEO, I have also enabled the Avenir Climatique association's website to increase its average traffic by 400%.</p>
 
-<a href="https://www.teamcollint.com/">Latest product: Collint</a>
+<a href="https://www.teamcollint.com/" target="_blank">Latest product: Collint</a>
 
